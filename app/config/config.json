@@ -1,0 +1,5 @@
+
+{
+    "input_path_dataset": "./app/dataset/bucket-eqp",
+    "output_path_dataset": "./app/dataset/output/eqp-data"
+}
